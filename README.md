@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Founder & CEO | Nexis Software
+Software Engineer
 <!--
 **GuedesDev01/GuedesDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
