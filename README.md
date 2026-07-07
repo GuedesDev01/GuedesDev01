@@ -3,8 +3,7 @@ Software Engineer
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GuedesDev01&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GuedesDev01&theme=onedark&no-frame=true&row=2&column=4)
 **GuedesDev01/GuedesDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
