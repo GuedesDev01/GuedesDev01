@@ -1,57 +1,71 @@
-# 👋 Olá, eu sou Bruno Guedes
+# 👋 Hi, I'm Bruno Guedes
 
 <h3 align="center">
-Founder & CEO da <b>Nexis Software</b>
+Founder & CEO of <b>Nexis Software</b>
 </h3>
 
 <p align="center">
-Construindo softwares sob encomenda, soluções empresariais e produtos escaláveis.
+Building custom business software, scalable solutions, and modern enterprise applications.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Founder+%40+Nexis+Software;Software+Engineer;Building+the+future+with+code.;Invently+ERP+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Founder+%40+Nexis+Software;Full+Stack+.NET+Developer;React+%7C+C%23+%7C+.NET;Building+Business+Software;Invently+ERP+Developer" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Company-Nexis%20Software-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Country-Brazil-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 About Me
 
-* 💼 Fundador da **Nexis Software**
-* 🚀 Desenvolvedor do **Invently ERP**
-* ☕ Java & Spring Boot
-* ⚛️ React / Next.js
-* 🗄️ PostgreSQL
-* ☁️ Cloud Computing
-* 📚 Sempre aprendendo novas tecnologias
+- 💼 Founder & CEO of **Nexis Software**
+- 🚀 Creator of **Invently ERP**
+- 💻 Full Stack Developer
+- ⚛️ React
+- 🔷 C# & .NET
+- 🗄️ Azure SQL Database
+- ☁️ Microsoft Azure
+- 🔄 Git & GitHub
+- 🛠️ Visual Studio
+- 📚 Passionate about software architecture and enterprise solutions
 
 ---
 
-## 🌐 Contato
+# 🌐 Contact
 
 <p align="left">
+
 <a href="https://nexiscompany.com.br">
-<img src="https://img.shields.io/badge/Site-Nexis-black?style=for-the-badge&logo=google-chrome">
+<img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="mailto:contato@nexiscompany.com.br">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
 ---
 
-# 💻 Tecnologias
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,nodejs,html,css,postgres,docker,git,github,linux,vscode,idea,aws"/>
+<img src="https://skillicons.dev/icons?i=react,cs,dotnet,git,github,azure,visualstudio,vscode,html,css,js"/>
 
 </p>
 
 ---
 
-# 📊 Estatísticas
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -63,7 +77,17 @@ Construindo softwares sob encomenda, soluções empresariais e produtos escaláv
 
 ---
 
-# 🔥 Sequência de Commits
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuedesDev01&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -83,7 +107,7 @@ Construindo softwares sob encomenda, soluções empresariais e produtos escaláv
 
 ---
 
-# 📈 Gráfico de Atividade
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -103,21 +127,29 @@ Construindo softwares sob encomenda, soluções empresariais e produtos escaláv
 
 ---
 
-# 📌 Projetos
+# 📌 Featured Projects
 
-⭐ Invently ERP
+⭐ **Invently ERP**
 
-⭐ Nexis Software Website
+Enterprise Resource Planning system built by Nexis Software.
 
-⭐ APIs Java
+⭐ **Nexis Software**
 
-⭐ Sistemas Empresariais
+Custom software development company focused on scalable business solutions.
+
+⭐ **Enterprise Applications**
+
+Modern web applications tailored to business needs.
+
+⭐ **REST APIs**
+
+Robust backend services developed with C# and .NET.
 
 ---
 
-# 💡 Frase
+# 💡 Quote
 
-> "Technology is built one commit at a time."
+> "Building software that solves real business problems."
 
 ---
 
