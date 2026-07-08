@@ -100,9 +100,7 @@ Building custom business software, scalable solutions, and modern enterprise app
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GuedesDev01&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=GuedesDev01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
